@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="StudentInformation">
+    <CLASSES>
+      <root url="jar://E:/JavaEE/web/StudentInformation.war!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/JavaEE/web/StudentInformation.war!/WEB-INF/classes" />
+    </SOURCES>
+  </library>
+</component>
